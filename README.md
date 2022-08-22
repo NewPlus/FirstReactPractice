@@ -3,7 +3,7 @@
 - JavaScript 기초 -> JavaScript 응용 -> Node.js -> React 입문 -> React 기본(일기장 만들기) -> React 실전 프로젝트
 - 강의 정보 : [Udemy 강의](https://hanium.udemy.com/course/winterlood-react-basic/)
 ## Contents
-- 01 JavaScript 기초 (2022.08.23) / 01 / Code Practice / 01100
+- 01 JavaScript 기초 (2022.08.22) / 01 / Code Practice / 01100
 - 02 JavaScript 응용 () / 02 / Code Practice / 02000
 - 03 Node.js () / 03 / Code Practice / 03000
 - 04 React 입문 () / 04 / Code Practice / 04000
